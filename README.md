@@ -8,7 +8,7 @@ Welcome to my GitHub! This is my second account — a space for experimenting, l
 
 - 💻 **Developer** passionate about code, creativity, and continuous learning.
 - 🌱 Currently exploring: `Next.js`, `Python`, and advanced `DevOps`.
-- 🛠️ Love working with: `TypeScript`, `React`, `Node.js`, `PostgreeSQL`
+- 🛠️ Love working with: `TypeScript`, `React`, `Node.js`, `PostgreSQL`
 - 🧪 This account is my **sandbox** — for side quests, test projects, and raw ideas.
 - 🎯 Goal: Build impactful software and contribute to open-source communities.
 
