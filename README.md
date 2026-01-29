@@ -8,7 +8,7 @@ Welcome to my GitHub! This is my second account — a space for experimenting, l
 
 - 💻 **Developer** passionate about code, creativity, and continuous learning.
 - 🌱 Currently exploring: `Next.js`, `Python`, and advanced `DevOps`.
-- 🛠️ Love working with: `JavaScript`, `React`, `Node.js`, `MongoDB`
+- 🛠️ Love working with: `TypeScript`, `React`, `Node.js`, `PostgreeSQL`
 - 🧪 This account is my **sandbox** — for side quests, test projects, and raw ideas.
 - 🎯 Goal: Build impactful software and contribute to open-source communities.
 
@@ -17,11 +17,18 @@ Welcome to my GitHub! This is my second account — a space for experimenting, l
 ## 🔧 Tools & Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 ---
 
